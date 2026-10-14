@@ -22,7 +22,7 @@ Aplicar los conocimientos adquiridos sobre listas enlazadas, pilas, colas y mane
 
 ## Código fuente
 
-El proyecto se encuentra desarrollado en **C++17** y su código está disponible en el archivo `carniceria.cpp`.
+El proyecto se encuentra desarrollado en **C++** y su código está disponible en el archivo `carniceria.cpp`.
 
 Se trata de una aplicación educativa de consola. Los registros se mantienen temporalmente durante la ejecución del programa, por lo que no utiliza una base de datos ni constituye un sistema comercial de ventas.
 
